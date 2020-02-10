@@ -1,2 +1,10 @@
-# dataquest_projects
-Projects that I've worked on through DataQuest whilst completing the Data Science course
+# DataQuest Projects
+
+These are guided projects that I have worked on through the DataQuest Data Scientist course.
+
+## Contents
+
+# Python
+
+
+Data Analysis and Visualization
