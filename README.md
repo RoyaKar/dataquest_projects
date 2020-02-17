@@ -18,5 +18,6 @@ These are guided projects that I have worked on through the DataQuest Data Scien
 
 - ## SQL
   - [Analysing CIA Factbook Data using SQL](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Analysing%20CIA%20Factbook%20Data%20using%20SQL/Basics.ipynb)
+  - [Designing & Creating a Database with SQLite](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Designing%20%26%20Creating%20a%20Database/Designing%20%26%20Creating%20a%20Database.ipynb)
   
   Tbc...
