@@ -20,6 +20,7 @@ These are guided projects that I have worked on through the [DataQuest](https://
   - [Analysing CIA Factbook Data using SQL](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Analysing%20CIA%20Factbook%20Data%20using%20SQL/Basics.ipynb)
   - [Answering Business Questions using SQL](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Answering%20Business%20Qs%20using%20SQL/Answering%20Business%20Questions.ipynb)
   - [Designing & Creating a Database with SQLite](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Designing%20%26%20Creating%20a%20Database/Designing%20%26%20Creating%20a%20Database.ipynb)
+  - [Identifying Popular Data Science Questions](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb): from a public data base using Transact-SQL 
 
 - ## APIs & Web Scraping
   - Working with Reddit API
