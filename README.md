@@ -27,3 +27,4 @@ These are guided projects that I have worked on through the [DataQuest](https://
 - ## Probability & Statistics
   - [Finding the Best Markets to Advertise In](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Identifying%20the%20best%20markets%20to%20advertise/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb): for an e-learning company that offers courses on programming
   - [Calculating probabilities for Mobile App for Lotto Addiction](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Calculating%20probabilities%20for%20Mobile%20App%20for%20Lotto%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+  - [Winning Jeopardy](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Winning%20Jeopardy/Basics.ipynb): applying the chi-squared test
