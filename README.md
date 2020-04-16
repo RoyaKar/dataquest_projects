@@ -30,3 +30,6 @@ These are guided projects that I have worked on through the [DataQuest](https://
   - [Building a Spam Filter](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Building%20a%20spam%20filter%20with%20Naive%20Bayes/SMS%20Spam%20Filter%20with%20Naive%20Bayes.ipynb): for SMS messages using the Naive Bayes algorithm
   - [Calculating probabilities for Mobile App for Lotto Addiction](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Calculating%20probabilities%20for%20Mobile%20App%20for%20Lotto%20Addiction/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
   - [Winning Jeopardy](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Winning%20Jeopardy/Basics.ipynb): applying the chi-squared test
+  
+- ## Machine Learning
+  - [Predicting Car Prices](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb): using the K-Nearest Neighbors Algorithm
