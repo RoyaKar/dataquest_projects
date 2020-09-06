@@ -33,3 +33,4 @@ These are guided projects that I have worked on through the [DataQuest](https://
   
 - ## Machine Learning
   - [Predicting Car Prices](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb): using the K-Nearest Neighbors Algorithm
+  - [Predicting the Stock Market](https://github.com/RoyaKar/dataquest_projects/tree/master/Guided%20Projects/Predicting%20Stock%20Market): using Linear Regression
