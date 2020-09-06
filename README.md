@@ -35,3 +35,4 @@ These are guided projects that I have worked on through the [DataQuest](https://
   - [Predicting Car Prices](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb): using the K-Nearest Neighbors Algorithm
   - [Predicting the Stock Market](https://github.com/RoyaKar/dataquest_projects/tree/master/Guided%20Projects/Predicting%20Stock%20Market): using Linear Regression
   - [Predicting Bike Rentals](https://github.com/RoyaKar/dataquest_projects/tree/master/Guided%20Projects/Predicting%20Bike%20Rentals): using various machine learning models including linear regression, decision tree and random forests
+  - [Building a handwritten digits classifier](https://github.com/RoyaKar/dataquest_projects/blob/master/Guided%20Projects/Building%20a%20handwritten%20digits%20classifier/Building%20a%20Handwritten%20Digits%20Classifier.ipynb): using neural networks
